@@ -26,8 +26,6 @@ DOI = {10.3390/en14040847}
 
 ### News
 
-**February 2022**
-
 Our new paper entitled [Mixed-Integer Nonlinear Programming for State-based Non-Intrusive Load Monitoring](https://ieeexplore.ieee.org/document/9714495) has been published in *IEEE Transactions on Smart Grid*. 
 
 See the source code [here](https://github.com/antoniosudoso/nilm-bqp/).
