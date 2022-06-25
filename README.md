@@ -2,8 +2,7 @@
 
 This repository provides the implementation of LDwA (Load Disaggregation with Attention) described in the paper:
 
-> V. Piccialli and A.M. Sudoso, Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network. 
-> Energies 2021, 14, 847. https://doi.org/10.3390/en14040847.
+> V. Piccialli and A. M. Sudoso, "Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network", Energies 2021, 14, 847. https://doi.org/10.3390/en14040847.
 
 The source code is written in Python and the DNN is implemented with Tensorflow.
 
@@ -24,11 +23,10 @@ DOI = {10.3390/en14040847}
 }
 ```
 
-### News
+### Related Work
 
 Our new paper entitled [Mixed-Integer Nonlinear Programming for State-based Non-Intrusive Load Monitoring](https://ieeexplore.ieee.org/document/9714495) has been published in *IEEE Transactions on Smart Grid*. 
 
-See the source code [here](https://github.com/antoniosudoso/nilm-bqp/).
+> M. Balletti, V. Piccialli and A. M. Sudoso, "Mixed-Integer Nonlinear Programming for State-Based Non-Intrusive Load Monitoring", IEEE Transactions on Smart Grid 2022, vol. 13, no. 4, pp. 3301-3314. https://doi.org/10.1109/TSG.2022.3152147.
 
-> M. Balletti, V. Piccialli and A. M. Sudoso, "Mixed-Integer Nonlinear Programming for State-based Non-Intrusive Load Monitoring". 
-> IEEE Transactions on Smart Grid 2022, https://doi.org/10.1109/TSG.2022.3152147.
+See the source code [here](https://github.com/antoniosudoso/nilm-bqp/).
